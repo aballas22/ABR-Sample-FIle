@@ -1,7 +1,9 @@
 # Oto_abR
 ## _Information_
 
-This repository has been uploaded for the development and presentation of the platform's UI. The fully functional deployed platform can be found at: https://autoabr.shinyapps.io/_abr_shiny_final/
+This repository has been uploaded for the development and presentation of the platform's UI. The fully functional deployed platform can be found at: https://autoabr.shinyapps.io/_abr_shiny_final/ .
+
+A Shiny app, such as “Oto_abR”, consists of two objects: the user interface (UI) side and the server side. The UI object controls the layout and appearance of the application (here-inafter mentioned as app) and the server contains all the R code that is needed to boot-strap the two objects. In this project, we decided to bundle the code for both the UI and server side, in a single R file, named app.R.
 
 The "Ωto_abR" app was created in order to visualize and/or analyze an Acoustic Brainstem Response (ABR) which was extracted, using the Interacoustics Eclipse Platform (module EP15). Additional information about the Eclipse platform can be found at https://www.interacoustics.com/abr/eclipse and https://www.manualslib.com/manual/1365514/Interacoustics-Eclipse.html .
 
