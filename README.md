@@ -1,7 +1,7 @@
 # Oto_abR
 ## _Information_
 
-This repository has been uploaded for the development and presentation of the platform's UI. The deployed platform can be found at: https://autoabr.shinyapps.io/_abr_shiny_final/
+This repository has been uploaded for the development and presentation of the platform's UI. The fully functional deployed platform can be found at: https://autoabr.shinyapps.io/_abr_shiny_final/
 
 The "Ωto_abR" app was created in order to visualize and/or analyze an Acoustic Brainstem Response (ABR) which was extracted, using the Interacoustics Eclipse Platform (module EP15). Additional information about the Eclipse platform can be found at https://www.interacoustics.com/abr/eclipse and https://www.manualslib.com/manual/1365514/Interacoustics-Eclipse.html .
 
